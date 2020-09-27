@@ -1,10 +1,9 @@
-# Doctor Bomber
-Private SMS-Bombe
+# Dspam
 # Install
 - apt update && apt upgrade
 - pkg install python
 - apt install git
-- git clone https://github.com/batiscuff/duplo-bomber
+- git clone https://github.com/luka-4EBUREK/Dspamer.
 - cd doctor-bomber
 - pip3 install -r requirements.txt
 # Start
